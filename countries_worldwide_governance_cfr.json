@@ -1,0 +1,777 @@
+﻿[
+  {
+    "country": "Afghanistan",
+    "wgi": -2.74673,
+    "cfr": 2.885
+  },
+  {
+    "country": "Albania",
+    "wgi": 0.3821,
+    "cfr": 3.647
+  },
+  {
+    "country": "Algeria",
+    "wgi": -0.7937849,
+    "cfr": 9.089
+  },
+  {
+    "country": "Andorra",
+    "wgi": 1.425432,
+    "cfr": 6.25
+  },
+  {
+    "country": "Argentina",
+    "wgi": 0.0199319,
+    "cfr": 5.234
+  },
+  {
+    "country": "Armenia",
+    "wgi": -0.4187803,
+    "cfr": 1.42
+  },
+  {
+    "country": "Aruba",
+    "wgi": 1.366119,
+    "cfr": 2.97
+  },
+  {
+    "country": "Australia",
+    "wgi": 0.9765741,
+    "cfr": 1.403
+  },
+  {
+    "country": "Austria",
+    "wgi": 0.9175232,
+    "cfr": 3.902
+  },
+  {
+    "country": "Azerbaijan",
+    "wgi": -0.6967331,
+    "cfr": 1.229
+  },
+  {
+    "country": "Bahrain",
+    "wgi": -0.8404424,
+    "cfr": 0.18
+  },
+  {
+    "country": "Bangladesh",
+    "wgi": -1.03248,
+    "cfr": 1.568
+  },
+  {
+    "country": "Belarus",
+    "wgi": 0.3535319,
+    "cfr": 0.573
+  },
+  {
+    "country": "Belgium",
+    "wgi": 0.412356,
+    "cfr": 16.383
+  },
+  {
+    "country": "Benin",
+    "wgi": -0.132421,
+    "cfr": 0.826
+  },
+  {
+    "country": "Bermuda",
+    "wgi": 1.162025,
+    "cfr": 5.932
+  },
+  {
+    "country": "Bolivia",
+    "wgi": -0.2428411,
+    "cfr": 4.678
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "wgi": -0.3923242,
+    "cfr": 4.734
+  },
+  {
+    "country": "Brazil",
+    "wgi": -0.3570176,
+    "cfr": 6.81
+  },
+  {
+    "country": "Brunei",
+    "wgi": 1.201149,
+    "cfr": 0.709
+  },
+  {
+    "country": "Bulgaria",
+    "wgi": 0.4196386,
+    "cfr": 4.605
+  },
+  {
+    "country": "Burkina Faso",
+    "wgi": -1.040907,
+    "cfr": 6.452
+  },
+  {
+    "country": "Cabo Verde",
+    "wgi": 0.7472337,
+    "cfr": 0.847
+  },
+  {
+    "country": "Cambodia",
+    "wgi": 0.108229,
+    "cfr": 0
+  },
+  {
+    "country": "Cameroon",
+    "wgi": -1.37598,
+    "cfr": 4.768
+  },
+  {
+    "country": "Canada",
+    "wgi": 0.9911886,
+    "cfr": 6.878
+  },
+  {
+    "country": "Chad",
+    "wgi": -1.478995,
+    "cfr": 10.769
+  },
+  {
+    "country": "Chile",
+    "wgi": 0.4252459,
+    "cfr": 1.132
+  },
+  {
+    "country": "China",
+    "wgi": -0.2610621,
+    "cfr": 5.522
+  },
+  {
+    "country": "Colombia",
+    "wgi": -0.8133885,
+    "cfr": 4.258
+  },
+  {
+    "country": "Congo, Dem. Rep.",
+    "wgi": -2.116205,
+    "cfr": 4.162
+  },
+  {
+    "country": "Congo, Rep.",
+    "wgi": -0.4428181,
+    "cfr": 3.484
+  },
+  {
+    "country": "Costa Rica",
+    "wgi": 0.4864345,
+    "cfr": 0.776
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "wgi": -0.9311823,
+    "cfr": 1.248
+  },
+  {
+    "country": "Croatia",
+    "wgi": 0.7688776,
+    "cfr": 3.98
+  },
+  {
+    "country": "Cuba",
+    "wgi": 0.6523342,
+    "cfr": 4.25
+  },
+  {
+    "country": "Cyprus",
+    "wgi": 0.543319,
+    "cfr": 2.357
+  },
+  {
+    "country": "Czech Republic",
+    "wgi": 1.040143,
+    "cfr": 3.38
+  },
+  {
+    "country": "Denmark",
+    "wgi": 0.9590668,
+    "cfr": 5.109
+  },
+  {
+    "country": "Djibouti",
+    "wgi": -0.1341229,
+    "cfr": 0.264
+  },
+  {
+    "country": "Dominican Republic",
+    "wgi": 0.0347933,
+    "cfr": 4.053
+  },
+  {
+    "country": "Ecuador",
+    "wgi": -0.0747498,
+    "cfr": 5.913
+  },
+  {
+    "country": "Egypt, Arab Rep.",
+    "wgi": -1.164931,
+    "cfr": 5.934
+  },
+  {
+    "country": "El Salvador",
+    "wgi": -0.3348508,
+    "cfr": 2.041
+  },
+  {
+    "country": "Equatorial Guinea",
+    "wgi": -0.0511222,
+    "cfr": 0.911
+  },
+  {
+    "country": "Estonia",
+    "wgi": 0.5999668,
+    "cfr": 3.246
+  },
+  {
+    "country": "Eswatini",
+    "wgi": -0.3086324,
+    "cfr": 1.227
+  },
+  {
+    "country": "Ethiopia",
+    "wgi": -1.343246,
+    "cfr": 2.062
+  },
+  {
+    "country": "Finland",
+    "wgi": 0.9249202,
+    "cfr": 4.531
+  },
+  {
+    "country": "France",
+    "wgi": 0.1091348,
+    "cfr": 18.949
+  },
+  {
+    "country": "French Guiana",
+    "wgi": 0.5304107,
+    "cfr": 0.694
+  },
+  {
+    "country": "Gabon",
+    "wgi": -0.2475997,
+    "cfr": 1.29
+  },
+  {
+    "country": "Georgia",
+    "wgi": -0.4264878,
+    "cfr": 1.605
+  },
+  {
+    "country": "Germany",
+    "wgi": 0.6048951,
+    "cfr": 4.372
+  },
+  {
+    "country": "Ghana",
+    "wgi": 0.0298971,
+    "cfr": 0.449
+  },
+  {
+    "country": "Greece",
+    "wgi": 0.0925857,
+    "cfr": 5.574
+  },
+  {
+    "country": "Guam",
+    "wgi": 0.6334171,
+    "cfr": 3.311
+  },
+  {
+    "country": "Guatemala",
+    "wgi": -0.541353,
+    "cfr": 2.667
+  },
+  {
+    "country": "Guinea",
+    "wgi": -0.8766674,
+    "cfr": 0.548
+  },
+  {
+    "country": "Guinea-Bissau",
+    "wgi": -0.6697532,
+    "cfr": 0.337
+  },
+  {
+    "country": "Haiti",
+    "wgi": -0.6268144,
+    "cfr": 8.219
+  },
+  {
+    "country": "Honduras",
+    "wgi": -0.550988,
+    "cfr": 6.042
+  },
+  {
+    "country": "Hong Kong SAR, China",
+    "wgi": 0.7943653,
+    "cfr": 0.383
+  },
+  {
+    "country": "Hungary",
+    "wgi": 0.7552119,
+    "cfr": 12.605
+  },
+  {
+    "country": "Iceland",
+    "wgi": 1.412426,
+    "cfr": 0.555
+  },
+  {
+    "country": "India",
+    "wgi": -0.9565214,
+    "cfr": 3.32
+  },
+  {
+    "country": "Indonesia",
+    "wgi": -0.5334369,
+    "cfr": 7.192
+  },
+  {
+    "country": "Iran",
+    "wgi": -1.306763,
+    "cfr": 6.248
+  },
+  {
+    "country": "Iraq",
+    "wgi": -2.55586,
+    "cfr": 3.995
+  },
+  {
+    "country": "Ireland",
+    "wgi": 1.030591,
+    "cfr": 6.34
+  },
+  {
+    "country": "Israel",
+    "wgi": -0.9324778,
+    "cfr": 1.491
+  },
+  {
+    "country": "Italy",
+    "wgi": 0.3111933,
+    "cfr": 13.906
+  },
+  {
+    "country": "Jamaica",
+    "wgi": 0.4869154,
+    "cfr": 1.837
+  },
+  {
+    "country": "Japan",
+    "wgi": 1.059693,
+    "cfr": 3.846
+  },
+  {
+    "country": "Jersey, Channel Islands",
+    "wgi": 1.273265,
+    "cfr": 8.532
+  },
+  {
+    "country": "Jordan",
+    "wgi": -0.3794051,
+    "cfr": 1.772
+  },
+  {
+    "country": "Kazakhstan",
+    "wgi": 0.0004052,
+    "cfr": 0.641
+  },
+  {
+    "country": "Kenya",
+    "wgi": -1.164113,
+    "cfr": 4.67
+  },
+  {
+    "country": "Korea, Rep.",
+    "wgi": 0.5449707,
+    "cfr": 2.362
+  },
+  {
+    "country": "Kosovo",
+    "wgi": -0.6054888,
+    "cfr": 3.248
+  },
+  {
+    "country": "Kuwait",
+    "wgi": 0.1102895,
+    "cfr": 0.652
+  },
+  {
+    "country": "Kyrgyz Republic",
+    "wgi": -0.5820286,
+    "cfr": 1.289
+  },
+  {
+    "country": "Latvia",
+    "wgi": 0.4215345,
+    "cfr": 1.94
+  },
+  {
+    "country": "Lebanon",
+    "wgi": -1.644891,
+    "cfr": 3.266
+  },
+  {
+    "country": "Liberia",
+    "wgi": -0.1924032,
+    "cfr": 10.05
+  },
+  {
+    "country": "Lithuania",
+    "wgi": 0.752799,
+    "cfr": 3.412
+  },
+  {
+    "country": "Luxembourg",
+    "wgi": 1.373404,
+    "cfr": 2.583
+  },
+  {
+    "country": "Madagascar",
+    "wgi": -0.5190363,
+    "cfr": 0
+  },
+  {
+    "country": "Malaysia",
+    "wgi": 0.2373901,
+    "cfr": 1.637
+  },
+  {
+    "country": "Maldives",
+    "wgi": 0.0950901,
+    "cfr": 0.466
+  },
+  {
+    "country": "Mali",
+    "wgi": -2.05126,
+    "cfr": 5.24
+  },
+  {
+    "country": "Malta",
+    "wgi": 1.294193,
+    "cfr": 1.022
+  },
+  {
+    "country": "Martinique",
+    "wgi": 0.9858225,
+    "cfr": 7.527
+  },
+  {
+    "country": "Mauritius",
+    "wgi": 0.872838,
+    "cfr": 3.012
+  },
+  {
+    "country": "Mexico",
+    "wgi": -0.572437,
+    "cfr": 10.025
+  },
+  {
+    "country": "Moldova",
+    "wgi": -0.3490165,
+    "cfr": 3.215
+  },
+  {
+    "country": "Montenegro",
+    "wgi": 0.1080209,
+    "cfr": 2.469
+  },
+  {
+    "country": "Morocco",
+    "wgi": -0.3318862,
+    "cfr": 3.257
+  },
+  {
+    "country": "Myanmar",
+    "wgi": -1.309011,
+    "cfr": 3.39
+  },
+  {
+    "country": "Nepal",
+    "wgi": -0.6251459,
+    "cfr": 0
+  },
+  {
+    "country": "Netherlands",
+    "wgi": 0.8682934,
+    "cfr": 12.731
+  },
+  {
+    "country": "New Zealand",
+    "wgi": 1.541482,
+    "cfr": 1.839
+  },
+  {
+    "country": "Niger",
+    "wgi": -1.260566,
+    "cfr": 5.535
+  },
+  {
+    "country": "Nigeria",
+    "wgi": -2.1927,
+    "cfr": 2.991
+  },
+  {
+    "country": "North Macedonia",
+    "wgi": -0.1966761,
+    "cfr": 5.675
+  },
+  {
+    "country": "Norway",
+    "wgi": 1.153804,
+    "cfr": 2.651
+  },
+  {
+    "country": "Oman",
+    "wgi": 0.6545912,
+    "cfr": 0.482
+  },
+  {
+    "country": "Pakistan",
+    "wgi": -2.267435,
+    "cfr": 2.249
+  },
+  {
+    "country": "Panama",
+    "wgi": 0.2771547,
+    "cfr": 2.862
+  },
+  {
+    "country": "Paraguay",
+    "wgi": -0.1192975,
+    "cfr": 1.776
+  },
+  {
+    "country": "Peru",
+    "wgi": -0.2593005,
+    "cfr": 2.771
+  },
+  {
+    "country": "Philippines",
+    "wgi": -1.121844,
+    "cfr": 6.652
+  },
+  {
+    "country": "Poland",
+    "wgi": 0.5450124,
+    "cfr": 5.05
+  },
+  {
+    "country": "Portugal",
+    "wgi": 1.140031,
+    "cfr": 4.085
+  },
+  {
+    "country": "Puerto Rico",
+    "wgi": 0.4000113,
+    "cfr": 4.963
+  },
+  {
+    "country": "Qatar",
+    "wgi": 0.6783724,
+    "cfr": 0.059
+  },
+  {
+    "country": "Reunion",
+    "wgi": 0.2692141,
+    "cfr": 0
+  },
+  {
+    "country": "Romania",
+    "wgi": 0.0593082,
+    "cfr": 6.063
+  },
+  {
+    "country": "Russian Federation",
+    "wgi": -0.5037209,
+    "cfr": 0.917
+  },
+  {
+    "country": "Rwanda",
+    "wgi": 0.1159507,
+    "cfr": 0
+  },
+  {
+    "country": "San Marino",
+    "wgi": 0.8627383,
+    "cfr": 6.581
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "wgi": 0.5335671,
+    "cfr": 2.404
+  },
+  {
+    "country": "Saudi Arabia",
+    "wgi": -0.5181113,
+    "cfr": 0.646
+  },
+  {
+    "country": "Senegal",
+    "wgi": -0.0886327,
+    "cfr": 0.903
+  },
+  {
+    "country": "Serbia",
+    "wgi": 0.0824774,
+    "cfr": 2.102
+  },
+  {
+    "country": "Sierra Leone",
+    "wgi": -0.0298916,
+    "cfr": 6.615
+  },
+  {
+    "country": "Singapore",
+    "wgi": 1.510339,
+    "cfr": 0.092
+  },
+  {
+    "country": "Slovak Republic",
+    "wgi": 0.7504383,
+    "cfr": 1.787
+  },
+  {
+    "country": "Slovenia",
+    "wgi": 0.9109183,
+    "cfr": 6.897
+  },
+  {
+    "country": "Somalia",
+    "wgi": -2.219771,
+    "cfr": 4.741
+  },
+  {
+    "country": "South Africa",
+    "wgi": -0.2766732,
+    "cfr": 2.001
+  },
+  {
+    "country": "South Sudan",
+    "wgi": -2.439316,
+    "cfr": 0
+  },
+  {
+    "country": "Spain",
+    "wgi": 0.2548025,
+    "cfr": 10.076
+  },
+  {
+    "country": "Sri Lanka",
+    "wgi": -0.1831642,
+    "cfr": 1.078
+  },
+  {
+    "country": "Sudan",
+    "wgi": -1.835869,
+    "cfr": 5.311
+  },
+  {
+    "country": "Sweden",
+    "wgi": 0.9136876,
+    "cfr": 12.567
+  },
+  {
+    "country": "Switzerland",
+    "wgi": 1.344863,
+    "cfr": 5.062
+  },
+  {
+    "country": "Taiwan, China",
+    "wgi": 0.8534058,
+    "cfr": 1.364
+  },
+  {
+    "country": "Tajikistan",
+    "wgi": -0.7243188,
+    "cfr": 2.299
+  },
+  {
+    "country": "Tanzania",
+    "wgi": -0.5591016,
+    "cfr": 4.126
+  },
+  {
+    "country": "Thailand",
+    "wgi": -0.733099,
+    "cfr": 1.833
+  },
+  {
+    "country": "Togo",
+    "wgi": -0.9817027,
+    "cfr": 6.897
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "wgi": 0.2480514,
+    "cfr": 6.897
+  },
+  {
+    "country": "Tunisia",
+    "wgi": -0.9018921,
+    "cfr": 4.369
+  },
+  {
+    "country": "Turkey",
+    "wgi": -1.328783,
+    "cfr": 2.721
+  },
+  {
+    "country": "Uganda",
+    "wgi": -0.6914156,
+    "cfr": 0
+  },
+  {
+    "country": "Ukraine",
+    "wgi": -1.826185,
+    "cfr": 2.543
+  },
+  {
+    "country": "United Arab Emirates",
+    "wgi": 0.7432382,
+    "cfr": 1.036
+  },
+  {
+    "country": "United Kingdom",
+    "wgi": 0.0487175,
+    "cfr": 14.781
+  },
+  {
+    "country": "United States",
+    "wgi": 0.4774609,
+    "cfr": 6.011
+  },
+  {
+    "country": "Uruguay",
+    "wgi": 1.046509,
+    "cfr": 2.594
+  },
+  {
+    "country": "Uzbekistan",
+    "wgi": -0.283422,
+    "cfr": 0.428
+  },
+  {
+    "country": "Venezuela, RB",
+    "wgi": -1.343512,
+    "cfr": 2.577
+  },
+  {
+    "country": "Vietnam",
+    "wgi": 0.2032657,
+    "cfr": 0
+  },
+  {
+    "country": "Zambia",
+    "wgi": 0.1419944,
+    "cfr": 2.395
+  }
+]
